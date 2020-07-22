@@ -1,5 +1,5 @@
 # CS229
-This repository is related to all homeworks and assingments that was done in CS229 class. 
+This repository is related to all homeworks and assingments that was done in Stanford CS229 class.
 This class is available on Youtube and the problems sets can be found on the internet. 
 I started the learning path in 20/07/2020 and will end it in 14 weeks
 ### Learining path
