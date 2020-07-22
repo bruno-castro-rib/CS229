@@ -4,7 +4,7 @@ This class is available on Youtube and the problems sets can be found on the int
 I started the learning path in 20/07/2020 and will end it in 14 weeks
 ### Learining path
 
-CS229 - Machine Learning
+#### CS229 - Machine Learning
 
 Lecture 1 - Introduction (OK)
 
